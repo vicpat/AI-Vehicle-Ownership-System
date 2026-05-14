@@ -19,3 +19,6 @@ This repository explores how AI can improve operational workflows, customer unde
 - Operational memory structures
 - Prompt orchestration
 - Team intelligence systems
+- AI memory synchronization
+- Multi-agent coordination
+- Operational dashboard intelligence
